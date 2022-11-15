@@ -1,4 +1,0 @@
-E:\SteamLibrary\SteamApps\common\RimWorld\Mods\DontReRebuff\Source\DontRebuff\obj\Debug\DontReRebuff.csproj.AssemblyReference.cache
-E:\SteamLibrary\SteamApps\common\RimWorld\Mods\DontReRebuff\Source\DontRebuff\obj\Debug\DontReRebuff.csproj.CoreCompileInputs.cache
-E:\SteamLibrary\SteamApps\common\RimWorld\Mods\DontReRebuff\Assemblies\DontReRebuff.dll
-E:\SteamLibrary\SteamApps\common\RimWorld\Mods\DontReRebuff\Source\DontRebuff\obj\Debug\DontReRebuff.dll
